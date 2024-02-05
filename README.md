@@ -3,7 +3,7 @@ This is a CAMUS_public (Cardiac Acquisitions for Multi-structure Ultrasound Segm
 for Image Segmentation.<br>  
 
 
-<h3>1. Dataset Citatioin</h3>
+<h3>1. Dataset Citation</h3>
 <a href="https://www.creatis.insa-lyon.fr/Challenge/camus/databases.html">
 CAMUS<br>
 Cardiac Acquisitions for Multi-structure Ultrasound Segmentation<br>
@@ -74,7 +74,7 @@ The dataset <b>CAMUS_public</b> has the following folder structure.<br>
 
     
 </pre>
-Each patient* folder contains two types of *.nii.gz (image) and *_gt.nii.gz (mask) files.
+Each patient folder contains two types of *.nii.gz (image) and _gt.nii.gz (mask) files.
 
 <h3>
 3. Create ImageMask Dataset

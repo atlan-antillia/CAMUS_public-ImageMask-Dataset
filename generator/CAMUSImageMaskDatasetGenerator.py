@@ -16,7 +16,7 @@
 # 2024/02/04
 
 """
-This CAMUSImageMaskDataset.sitk_load method has been taken from the following code.
+This CAMUSImageMaskDatasetGenerator.sitk_load method has been taken from the following code.
 
 CAMUS_public/jupyter/script_camus_ef.ipynb
 

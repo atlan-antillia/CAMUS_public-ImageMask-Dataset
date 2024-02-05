@@ -48,7 +48,7 @@ doi: 10.1109/TMI.2019.2900516<br>
 <h3>
 2. Download master dataset
 </h3>
-  Please download the original image and mask dataset <b>CAMUS_public</b> by running the following website.<br>
+  Please download the original image and mask dataset <b>CAMUS_public</b> from the following website.<br>
 
 <a href="https://humanheart-project.creatis.insa-lyon.fr/database/#collection/6373703d73e9f0047faa1bc8">CAMUS_public</a>
 <br>

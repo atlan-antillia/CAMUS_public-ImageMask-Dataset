@@ -88,8 +88,8 @@ Please move to <b>generator</b> directory, and run the following command.<br>
 </pre>
 
 By using this Python script <a href="./generator/CAMUSImageMaskDatasetGenerator.py">CAMUSImageMaskDatasetGenerator.py</a>,
- we have created <b>CAMUS-master</b> jpg image dataset of image-size 512x512 from the 
- *.nii.gz files in <b>database_nifti/patient*/</b> folders.<br>
+ we have created the augmented <b>CAMUS-master</b> jpg image dataset of image-size 512x512 from the 
+ .nii.gz files in all <b>database_nifti/patient/</b> folders.<br>
 
 <pre>
 ./CAMUS-master
